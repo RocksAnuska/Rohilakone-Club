@@ -1,0 +1,21 @@
+ <!-- Upcoming Events Section -->
+  <section class="upcoming-events">
+    <h2>Upcoming Events</h2>
+    <div class="upcoming-events-list">
+      <div class="upcoming-event-card">
+        <div class="event-date">Sep 10, 2025</div>
+        <div class="event-title">Ganesh Chaturthi Celebration</div>
+        <div class="event-desc">Join us for a vibrant celebration with music, dance, and traditional rituals.</div>
+      </div>
+      <div class="upcoming-event-card">
+        <div class="event-date">Oct 2, 2025</div>
+        <div class="event-title">Annual Sports Day</div>
+        <div class="event-desc">Exciting sports competitions and fun activities for all age groups.</div>
+      </div>
+      <div class="upcoming-event-card">
+        <div class="event-date">Nov 12, 2025</div>
+        <div class="event-title">Diwali Night</div>
+        <div class="event-desc">Celebrate the festival of lights with cultural performances and fireworks.</div>
+      </div>
+    </div>
+  </section>
